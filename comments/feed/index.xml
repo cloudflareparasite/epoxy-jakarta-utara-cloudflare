@@ -11,7 +11,7 @@
 	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Harga Jasa Epoxy Lantai Termurah</description>
-	<lastBuildDate>Wed, 25 Jan 2023 08:41:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2023 12:14:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,4 +20,4 @@
 </channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=PhpRedis metric#hits=671 metric#misses=12 metric#hit-ratio=98.2 metric#bytes=408393 metric#prefetches=0 metric#store-reads=26 metric#store-writes=3 metric#store-hits=18 metric#store-misses=8 metric#sql-queries=8 metric#ms-total=467.04 metric#ms-cache=4.40 metric#ms-cache-median=0.11 metric#ms-cache-ratio=0.9 -->
+<!-- plugin=object-cache-pro client=PhpRedis metric#hits=672 metric#misses=12 metric#hit-ratio=98.3 metric#bytes=408361 metric#prefetches=0 metric#store-reads=27 metric#store-writes=3 metric#store-hits=19 metric#store-misses=8 metric#sql-queries=8 metric#ms-total=863.34 metric#ms-cache=14.44 metric#ms-cache-median=0.18 metric#ms-cache-ratio=1.7 sample#redis-hits=91822363 sample#redis-misses=64476915 sample#redis-hit-ratio=58.8 sample#redis-ops-per-sec=77 sample#redis-evicted-keys=0 sample#redis-used-memory=15498232 sample#redis-used-memory-rss=21757952 sample#redis-memory-fragmentation-ratio=1.4 sample#redis-connected-clients=3 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=16020 -->
